@@ -1,2 +1,3 @@
 # airbnb-clone-project
-##Project Roles and Responsibilities
+## UI/UX Design Planning
+## Project Roles and Responsibilities
